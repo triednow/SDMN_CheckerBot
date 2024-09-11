@@ -54,7 +54,7 @@ $config['timeZone'] =  "IST";
 */
 $config['db']['hostname'] =  "sql7.freesqldatabase.com";
 $config['db']['username'] =  "sql7730760";
-$config['db']['password'] =  $_ENV['DB_PASSWORD'];
+$config['db']['password'] =  "PBy6HlHR21";
 $config['db']['database'] =  "sql7730760";
 
 /*
